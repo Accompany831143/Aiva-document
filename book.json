@@ -1,0 +1,16 @@
+{
+  "title": "Aiva-Book",
+  "language": "zh-hans",
+  "root": "./",
+  "description": "Aiva的博客文章",
+  "author":"Aiva",
+  "gitbook": ">=3.0.0",
+  "styles": {
+    "website": "website.css"
+  },
+  "plugins": [
+    "-sharing",
+    "-search"  
+  ],
+  "pluginsConfig": {}
+}
